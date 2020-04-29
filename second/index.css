@@ -1,0 +1,58 @@
+header {
+    border: 5px solid black;
+    margin: 10px;
+  width: 1433px;
+  padding: 20px;
+  
+}
+#one {
+  background-color: purple;
+  width: 70px;
+  height: 160px;
+  display: inline-block;
+}
+#two {
+  background-color: green;
+  width: 450px;
+  height: 200px;
+  display: inline-block;
+  margin-left: 100px;
+}
+#three {
+  background-color: lightblue;
+  border-radius: 50%;
+  display: inline-block;
+  width: 200px;
+  height: 200px;
+  margin-left: 100px;
+}
+section {
+    border: 5px dotted black;
+    height: 40vh;
+    margin: 10px;
+    box-sizing: border-box;
+    padding: 50px;
+}
+#four {
+   width: 100%;
+   height: 100%;
+    background-color: rgb(255, 247, 189);
+  box-shadow: 8px 8px 6px 0px black;
+}
+footer {
+    border: 1px solid black;
+    padding: 60px;
+    text-align: center;
+    color: purple;
+    width: 40vw;
+    height: 40vh; 
+    margin-left: 25vw;
+    box-shadow: -1px 1px 5px 0px black;
+}
+
+h2 {
+    color: darkblue;
+   font-size: 50px;
+   letter-spacing: 5px;
+   margin-top: 75px;
+}
